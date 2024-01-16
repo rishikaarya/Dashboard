@@ -1,0 +1,701 @@
+Segment,Country, Product , Units Sold , Manufacturing Price , Sale Price , Gross Sales ,  Sales , COGS , Profit ,Month Number, Month Name ,Year
+Government,Canada, Carretera ,"1,618.50",3,20,"32,370","32,370","16,185","16,185",1, January ,2014
+Government,Germany, Carretera ,"1,321.00",3,20,"26,420","26,420","13,210","13,210",1, January ,2014
+Midmarket,France, Carretera ,"2,178.00",3,15,"32,670","32,670","21,780","10,890",6, June ,2014
+Midmarket,Germany, Carretera ,888,3,15,"13,320","13,320","8,880","4,440",6, June ,2014
+Midmarket,Mexico, Carretera ,"2,470.00",3,15,"37,050","37,050","24,700","12,350",6, June ,2014
+Government,Germany, Carretera ,"1,513.00",3,350,"5,29,550","5,29,550","3,93,380","1,36,170",12, December ,2014
+Midmarket,Germany, Montana ,921,5,15,"13,815","13,815","9,210","4,605",3, March ,2014
+Channel Partners,Canada, Montana ,"2,518.00",5,12,"30,216","30,216","7,554","22,662",6, June ,2014
+Government,France, Montana ,"1,899.00",5,20,"37,980","37,980","18,990","18,990",6, June ,2014
+Channel Partners,Germany, Montana ,"1,545.00",5,12,"18,540","18,540","4,635","13,905",6, June ,2014
+Midmarket,Mexico, Montana ,"2,470.00",5,15,"37,050","37,050","24,700","12,350",6, June ,2014
+Enterprise,Canada, Montana ,"2,665.50",5,125,"3,33,188","3,33,188","3,19,860","13,328",7, July ,2014
+Small Business,Mexico, Montana ,958,5,300,"2,87,400","2,87,400","2,39,500","47,900",8, August ,2014
+Government,Germany, Montana ,"2,146.00",5,7,"15,022","15,022","10,730","4,292",9, September ,2014
+Enterprise,Canada, Montana ,345,5,125,"43,125","43,125","41,400","1,725",10, October ,2013
+Midmarket,United States of America, Montana ,615,5,15,"9,225","9,225","6,150","3,075",12, December ,2014
+Government,Canada, Paseo ,292,10,20,"5,840","5,840","2,920","2,920",2, February ,2014
+Midmarket,Mexico, Paseo ,974,10,15,"14,610","14,610","9,740","4,870",2, February ,2014
+Channel Partners,Canada, Paseo ,"2,518.00",10,12,"30,216","30,216","7,554","22,662",6, June ,2014
+Government,Germany, Paseo ,"1,006.00",10,350,"3,52,100","3,52,100","2,61,560","90,540",6, June ,2014
+Channel Partners,Germany, Paseo ,367,10,12,"4,404","4,404","1,101","3,303",7, July ,2014
+Government,Mexico, Paseo ,883,10,7,"6,181","6,181","4,415","1,766",8, August ,2014
+Midmarket,France, Paseo ,549,10,15,"8,235","8,235","5,490","2,745",9, September ,2013
+Small Business,Mexico, Paseo ,788,10,300,"2,36,400","2,36,400","1,97,000","39,400",9, September ,2013
+Midmarket,Mexico, Paseo ,"2,472.00",10,15,"37,080","37,080","24,720","12,360",9, September ,2014
+Government,United States of America, Paseo ,"1,143.00",10,7,"8,001","8,001","5,715","2,286",10, October ,2014
+Government,Canada, Paseo ,"1,725.00",10,350,"6,03,750","6,03,750","4,48,500","1,55,250",11, November ,2013
+Channel Partners,United States of America, Paseo ,912,10,12,"10,944","10,944","2,736","8,208",11, November ,2013
+Midmarket,Canada, Paseo ,"2,152.00",10,15,"32,280","32,280","21,520","10,760",12, December ,2013
+Government,Canada, Paseo ,"1,817.00",10,20,"36,340","36,340","18,170","18,170",12, December ,2014
+Government,Germany, Paseo ,"1,513.00",10,350,"5,29,550","5,29,550","3,93,380","1,36,170",12, December ,2014
+Government,Mexico, Velo ,"1,493.00",120,7,"10,451","10,451","7,465","2,986",1, January ,2014
+Enterprise,France, Velo ,"1,804.00",120,125,"2,25,500","2,25,500","2,16,480","9,020",2, February ,2014
+Channel Partners,Germany, Velo ,"2,161.00",120,12,"25,932","25,932","6,483","19,449",3, March ,2014
+Government,Germany, Velo ,"1,006.00",120,350,"3,52,100","3,52,100","2,61,560","90,540",6, June ,2014
+Channel Partners,Germany, Velo ,"1,545.00",120,12,"18,540","18,540","4,635","13,905",6, June ,2014
+Enterprise,United States of America, Velo ,"2,821.00",120,125,"3,52,625","3,52,625","3,38,520","14,105",8, August ,2014
+Enterprise,Canada, Velo ,345,120,125,"43,125","43,125","41,400","1,725",10, October ,2013
+Small Business,Canada, VTT ,"2,001.00",250,300,"6,00,300","6,00,300","5,00,250","1,00,050",2, February ,2014
+Channel Partners,Germany, VTT ,"2,838.00",250,12,"34,056","34,056","8,514","25,542",4, April ,2014
+Midmarket,France, VTT ,"2,178.00",250,15,"32,670","32,670","21,780","10,890",6, June ,2014
+Midmarket,Germany, VTT ,888,250,15,"13,320","13,320","8,880","4,440",6, June ,2014
+Government,France, VTT ,"1,527.00",250,350,"5,34,450","5,34,450","3,97,020","1,37,430",9, September ,2013
+Small Business,France, VTT ,"2,151.00",250,300,"6,45,300","6,45,300","5,37,750","1,07,550",9, September ,2014
+Government,Canada, VTT ,"1,817.00",250,20,"36,340","36,340","18,170","18,170",12, December ,2014
+Government,France, Amarilla ,"2,750.00",260,350,"9,62,500","9,62,500","7,15,000","2,47,500",2, February ,2014
+Channel Partners,United States of America, Amarilla ,"1,953.00",260,12,"23,436","23,436","5,859","17,577",4, April ,2014
+Enterprise,Germany, Amarilla ,"4,219.50",260,125,"5,27,438","5,27,438","5,06,340","21,098",4, April ,2014
+Government,France, Amarilla ,"1,899.00",260,20,"37,980","37,980","18,990","18,990",6, June ,2014
+Government,Germany, Amarilla ,"1,686.00",260,7,"11,802","11,802","8,430","3,372",7, July ,2014
+Channel Partners,United States of America, Amarilla ,"2,141.00",260,12,"25,692","25,692","6,423","19,269",8, August ,2014
+Government,United States of America, Amarilla ,"1,143.00",260,7,"8,001","8,001","5,715","2,286",10, October ,2014
+Midmarket,United States of America, Amarilla ,615,260,15,"9,225","9,225","6,150","3,075",12, December ,2014
+Government,France, Paseo ,"3,945.00",10,7,"27,615","27,339","19,725","7,614",1, January ,2014
+Midmarket,France, Paseo ,"2,296.00",10,15,"34,440","34,096","22,960","11,136",2, February ,2014
+Government,France, Paseo ,"1,030.00",10,7,"7,210","7,138","5,150","1,988",5, May ,2014
+Government,France, Velo ,639,120,7,"4,473","4,428","3,195","1,233",11, November ,2014
+Government,Canada, VTT ,"1,326.00",250,7,"9,282","9,189","6,630","2,559",3, March ,2014
+Channel Partners,United States of America, Carretera ,"1,858.00",3,12,"22,296","22,073","5,574","16,499",2, February ,2014
+Government,Mexico, Carretera ,"1,210.00",3,350,"4,23,500","4,19,265","3,14,600","1,04,665",3, March ,2014
+Government,United States of America, Carretera ,"2,529.00",3,7,"17,703","17,526","12,645","4,881",7, July ,2014
+Channel Partners,Canada, Carretera ,"1,445.00",3,12,"17,340","17,167","4,335","12,832",9, September ,2014
+Enterprise,United States of America, Carretera ,330,3,125,"41,250","40,838","39,600","1,238",9, September ,2013
+Channel Partners,France, Carretera ,"2,671.00",3,12,"32,052","31,731","8,013","23,718",9, September ,2014
+Channel Partners,Germany, Carretera ,766,3,12,"9,192","9,100","2,298","6,802",10, October ,2013
+Small Business,Mexico, Carretera ,494,3,300,"1,48,200","1,46,718","1,23,500","23,218",10, October ,2013
+Government,Mexico, Carretera ,"1,397.00",3,350,"4,88,950","4,84,061","3,63,220","1,20,841",10, October ,2014
+Government,France, Carretera ,"2,155.00",3,350,"7,54,250","7,46,708","5,60,300","1,86,408",12, December ,2014
+Midmarket,Mexico, Montana ,"2,214.00",5,15,"33,210","32,878","22,140","10,738",3, March ,2014
+Small Business,United States of America, Montana ,"2,301.00",5,300,"6,90,300","6,83,397","5,75,250","1,08,147",4, April ,2014
+Government,France, Montana ,"1,375.50",5,20,"27,510","27,235","13,755","13,480",7, July ,2014
+Government,Canada, Montana ,"1,830.00",5,7,"12,810","12,682","9,150","3,532",8, August ,2014
+Small Business,United States of America, Montana ,"2,498.00",5,300,"7,49,400","7,41,906","6,24,500","1,17,406",9, September ,2013
+Enterprise,United States of America, Montana ,663,5,125,"82,875","82,046","79,560","2,486",10, October ,2013
+Midmarket,United States of America, Paseo ,"1,514.00",10,15,"22,710","22,483","15,140","7,343",2, February ,2014
+Government,United States of America, Paseo ,"4,492.50",10,7,"31,448","31,133","22,463","8,671",4, April ,2014
+Enterprise,United States of America, Paseo ,727,10,125,"90,875","89,966","87,240","2,726",6, June ,2014
+Enterprise,France, Paseo ,787,10,125,"98,375","97,391","94,440","2,951",6, June ,2014
+Enterprise,Mexico, Paseo ,"1,823.00",10,125,"2,27,875","2,25,596","2,18,760","6,836",7, July ,2014
+Midmarket,Germany, Paseo ,747,10,15,"11,205","11,093","7,470","3,623",9, September ,2014
+Channel Partners,Germany, Paseo ,766,10,12,"9,192","9,100","2,298","6,802",10, October ,2013
+Small Business,United States of America, Paseo ,"2,905.00",10,300,"8,71,500","8,62,785","7,26,250","1,36,535",11, November ,2014
+Government,France, Paseo ,"2,155.00",10,350,"7,54,250","7,46,708","5,60,300","1,86,408",12, December ,2014
+Government,France, Velo ,"3,864.00",120,20,"77,280","76,507","38,640","37,867",4, April ,2014
+Government,Mexico, Velo ,362,120,7,"2,534","2,509","1,810",699,5, May ,2014
+Enterprise,Canada, Velo ,923,120,125,"1,15,375","1,14,221","1,10,760","3,461",8, August ,2014
+Enterprise,United States of America, Velo ,663,120,125,"82,875","82,046","79,560","2,486",10, October ,2013
+Government,Canada, Velo ,"2,092.00",120,7,"14,644","14,498","10,460","4,038",11, November ,2013
+Government,Germany, VTT ,263,250,7,"1,841","1,823","1,315",508,3, March ,2014
+Government,Canada, VTT ,943.5,250,350,"3,30,225","3,26,923","2,45,310","81,613",4, April ,2014
+Enterprise,United States of America, VTT ,727,250,125,"90,875","89,966","87,240","2,726",6, June ,2014
+Enterprise,France, VTT ,787,250,125,"98,375","97,391","94,440","2,951",6, June ,2014
+Small Business,Germany, VTT ,986,250,300,"2,95,800","2,92,842","2,46,500","46,342",9, September ,2014
+Small Business,Mexico, VTT ,494,250,300,"1,48,200","1,46,718","1,23,500","23,218",10, October ,2013
+Government,Mexico, VTT ,"1,397.00",250,350,"4,88,950","4,84,061","3,63,220","1,20,841",10, October ,2014
+Enterprise,France, VTT ,"1,744.00",250,125,"2,18,000","2,15,820","2,09,280","6,540",11, November ,2014
+Channel Partners,United States of America, Amarilla ,"1,989.00",260,12,"23,868","23,629","5,967","17,662",9, September ,2013
+Midmarket,France, Amarilla ,321,260,15,"4,815","4,767","3,210","1,557",11, November ,2013
+Enterprise,Canada, Carretera ,742.5,3,125,"92,813","90,956","89,100","1,856",4, April ,2014
+Channel Partners,Canada, Carretera ,"1,295.00",3,12,"15,540","15,229","3,885","11,344",10, October ,2014
+Small Business,Germany, Carretera ,214,3,300,"64,200","62,916","53,500","9,416",10, October ,2013
+Government,France, Carretera ,"2,145.00",3,7,"15,015","14,715","10,725","3,990",11, November ,2013
+Government,Canada, Carretera ,"2,852.00",3,350,"9,98,200","9,78,236","7,41,520","2,36,716",12, December ,2014
+Channel Partners,United States of America, Montana ,"1,142.00",5,12,"13,704","13,430","3,426","10,004",6, June ,2014
+Government,United States of America, Montana ,"1,566.00",5,20,"31,320","30,694","15,660","15,034",10, October ,2014
+Channel Partners,Mexico, Montana ,690,5,12,"8,280","8,114","2,070","6,044",11, November ,2014
+Enterprise,Mexico, Montana ,"1,660.00",5,125,"2,07,500","2,03,350","1,99,200","4,150",11, November ,2013
+Midmarket,Canada, Paseo ,"2,363.00",10,15,"35,445","34,736","23,630","11,106",2, February ,2014
+Small Business,France, Paseo ,918,10,300,"2,75,400","2,69,892","2,29,500","40,392",5, May ,2014
+Small Business,Germany, Paseo ,"1,728.00",10,300,"5,18,400","5,08,032","4,32,000","76,032",5, May ,2014
+Channel Partners,United States of America, Paseo ,"1,142.00",10,12,"13,704","13,430","3,426","10,004",6, June ,2014
+Enterprise,Mexico, Paseo ,662,10,125,"82,750","81,095","79,440","1,655",6, June ,2014
+Channel Partners,Canada, Paseo ,"1,295.00",10,12,"15,540","15,229","3,885","11,344",10, October ,2014
+Enterprise,Germany, Paseo ,809,10,125,"1,01,125","99,103","97,080","2,023",10, October ,2013
+Enterprise,Mexico, Paseo ,"2,145.00",10,125,"2,68,125","2,62,763","2,57,400","5,363",10, October ,2013
+Channel Partners,France, Paseo ,"1,785.00",10,12,"21,420","20,992","5,355","15,637",11, November ,2013
+Small Business,Canada, Paseo ,"1,916.00",10,300,"5,74,800","5,63,304","4,79,000","84,304",12, December ,2014
+Government,Canada, Paseo ,"2,852.00",10,350,"9,98,200","9,78,236","7,41,520","2,36,716",12, December ,2014
+Enterprise,Canada, Paseo ,"2,729.00",10,125,"3,41,125","3,34,303","3,27,480","6,823",12, December ,2014
+Midmarket,United States of America, Paseo ,"1,925.00",10,15,"28,875","28,298","19,250","9,048",12, December ,2013
+Government,United States of America, Paseo ,"2,013.00",10,7,"14,091","13,809","10,065","3,744",12, December ,2013
+Channel Partners,France, Paseo ,"1,055.00",10,12,"12,660","12,407","3,165","9,242",12, December ,2014
+Channel Partners,Mexico, Paseo ,"1,084.00",10,12,"13,008","12,748","3,252","9,496",12, December ,2014
+Government,United States of America, Velo ,"1,566.00",120,20,"31,320","30,694","15,660","15,034",10, October ,2014
+Government,Germany, Velo ,"2,966.00",120,350,"10,38,100","10,17,338","7,71,160","2,46,178",10, October ,2013
+Government,Germany, Velo ,"2,877.00",120,350,"10,06,950","9,86,811","7,48,020","2,38,791",10, October ,2014
+Enterprise,Germany, Velo ,809,120,125,"1,01,125","99,103","97,080","2,023",10, October ,2013
+Enterprise,Mexico, Velo ,"2,145.00",120,125,"2,68,125","2,62,763","2,57,400","5,363",10, October ,2013
+Channel Partners,France, Velo ,"1,055.00",120,12,"12,660","12,407","3,165","9,242",12, December ,2014
+Government,Mexico, Velo ,544,120,20,"10,880","10,662","5,440","5,222",12, December ,2013
+Channel Partners,Mexico, Velo ,"1,084.00",120,12,"13,008","12,748","3,252","9,496",12, December ,2014
+Enterprise,Mexico, VTT ,662,250,125,"82,750","81,095","79,440","1,655",6, June ,2014
+Small Business,Germany, VTT ,214,250,300,"64,200","62,916","53,500","9,416",10, October ,2013
+Government,Germany, VTT ,"2,877.00",250,350,"10,06,950","9,86,811","7,48,020","2,38,791",10, October ,2014
+Enterprise,Canada, VTT ,"2,729.00",250,125,"3,41,125","3,34,303","3,27,480","6,823",12, December ,2014
+Government,United States of America, VTT ,266,250,350,"93,100","91,238","69,160","22,078",12, December ,2013
+Government,Mexico, VTT ,"1,940.00",250,350,"6,79,000","6,65,420","5,04,400","1,61,020",12, December ,2013
+Small Business,Germany, Amarilla ,259,260,300,"77,700","76,146","64,750","11,396",3, March ,2014
+Small Business,Mexico, Amarilla ,"1,101.00",260,300,"3,30,300","3,23,694","2,75,250","48,444",3, March ,2014
+Enterprise,Germany, Amarilla ,"2,276.00",260,125,"2,84,500","2,78,810","2,73,120","5,690",5, May ,2014
+Government,Germany, Amarilla ,"2,966.00",260,350,"10,38,100","10,17,338","7,71,160","2,46,178",10, October ,2013
+Government,United States of America, Amarilla ,"1,236.00",260,20,"24,720","24,226","12,360","11,866",11, November ,2014
+Government,France, Amarilla ,941,260,20,"18,820","18,444","9,410","9,034",11, November ,2014
+Small Business,Canada, Amarilla ,"1,916.00",260,300,"5,74,800","5,63,304","4,79,000","84,304",12, December ,2014
+Enterprise,France, Carretera ,"4,243.50",3,125,"5,30,438","5,14,524","5,09,220","5,304",4, April ,2014
+Government,Germany, Carretera ,"2,580.00",3,20,"51,600","50,052","25,800","24,252",4, April ,2014
+Small Business,Germany, Carretera ,689,3,300,"2,06,700","2,00,499","1,72,250","28,249",6, June ,2014
+Channel Partners,United States of America, Carretera ,"1,947.00",3,12,"23,364","22,663","5,841","16,822",9, September ,2014
+Channel Partners,Canada, Carretera ,908,3,12,"10,896","10,569","2,724","7,845",12, December ,2013
+Government,Germany, Montana ,"1,958.00",5,7,"13,706","13,295","9,790","3,505",2, February ,2014
+Channel Partners,France, Montana ,"1,901.00",5,12,"22,812","22,128","5,703","16,425",6, June ,2014
+Government,France, Montana ,544,5,7,"3,808","3,694","2,720",974,9, September ,2014
+Government,Germany, Montana ,"1,797.00",5,350,"6,28,950","6,10,082","4,67,220","1,42,862",9, September ,2013
+Enterprise,France, Montana ,"1,287.00",5,125,"1,60,875","1,56,049","1,54,440","1,609",12, December ,2014
+Enterprise,Germany, Montana ,"1,706.00",5,125,"2,13,250","2,06,853","2,04,720","2,133",12, December ,2014
+Small Business,France, Paseo ,"2,434.50",10,300,"7,30,350","7,08,440","6,08,625","99,815",1, January ,2014
+Enterprise,Canada, Paseo ,"1,774.00",10,125,"2,21,750","2,15,098","2,12,880","2,218",3, March ,2014
+Channel Partners,France, Paseo ,"1,901.00",10,12,"22,812","22,128","5,703","16,425",6, June ,2014
+Small Business,Germany, Paseo ,689,10,300,"2,06,700","2,00,499","1,72,250","28,249",6, June ,2014
+Enterprise,Germany, Paseo ,"1,570.00",10,125,"1,96,250","1,90,363","1,88,400","1,963",6, June ,2014
+Channel Partners,United States of America, Paseo ,"1,369.50",10,12,"16,434","15,941","4,109","11,832",7, July ,2014
+Enterprise,Canada, Paseo ,"2,009.00",10,125,"2,51,125","2,43,591","2,41,080","2,511",10, October ,2014
+Midmarket,Germany, Paseo ,"1,945.00",10,15,"29,175","28,300","19,450","8,850",10, October ,2013
+Enterprise,France, Paseo ,"1,287.00",10,125,"1,60,875","1,56,049","1,54,440","1,609",12, December ,2014
+Enterprise,Germany, Paseo ,"1,706.00",10,125,"2,13,250","2,06,853","2,04,720","2,133",12, December ,2014
+Enterprise,Canada, Velo ,"2,009.00",120,125,"2,51,125","2,43,591","2,41,080","2,511",10, October ,2014
+Small Business,United States of America, VTT ,"2,844.00",250,300,"8,53,200","8,27,604","7,11,000","1,16,604",2, February ,2014
+Channel Partners,Mexico, VTT ,"1,916.00",250,12,"22,992","22,302","5,748","16,554",4, April ,2014
+Enterprise,Germany, VTT ,"1,570.00",250,125,"1,96,250","1,90,363","1,88,400","1,963",6, June ,2014
+Small Business,Canada, VTT ,"1,874.00",250,300,"5,62,200","5,45,334","4,68,500","76,834",8, August ,2014
+Government,Mexico, VTT ,"1,642.00",250,350,"5,74,700","5,57,459","4,26,920","1,30,539",8, August ,2014
+Midmarket,Germany, VTT ,"1,945.00",250,15,"29,175","28,300","19,450","8,850",10, October ,2013
+Government,Canada, Carretera ,831,3,20,"16,620","16,121","8,310","7,811",5, May ,2014
+Government,Mexico, Paseo ,"1,760.00",10,7,"12,320","11,950","8,800","3,150",9, September ,2013
+Government,Canada, Velo ,"3,850.50",120,20,"77,010","74,700","38,505","36,195",4, April ,2014
+Channel Partners,Germany, VTT ,"2,479.00",250,12,"29,748","28,856","7,437","21,419",1, January ,2014
+Midmarket,Mexico, Montana ,"2,031.00",5,15,"30,465","29,246","20,310","8,936",10, October ,2014
+Midmarket,Mexico, Paseo ,"2,031.00",10,15,"30,465","29,246","20,310","8,936",10, October ,2014
+Midmarket,France, Paseo ,"2,261.00",10,15,"33,915","32,558","22,610","9,948",12, December ,2013
+Government,United States of America, Velo ,736,120,20,"14,720","14,131","7,360","6,771",9, September ,2013
+Government,Canada, Carretera ,"2,851.00",3,7,"19,957","19,159","14,255","4,904",10, October ,2013
+Small Business,Germany, Carretera ,"2,021.00",3,300,"6,06,300","5,82,048","5,05,250","76,798",10, October ,2014
+Government,United States of America, Carretera ,274,3,350,"95,900","92,064","71,240","20,824",12, December ,2014
+Midmarket,Canada, Montana ,"1,967.00",5,15,"29,505","28,325","19,670","8,655",3, March ,2014
+Small Business,Germany, Montana ,"1,859.00",5,300,"5,57,700","5,35,392","4,64,750","70,642",8, August ,2014
+Government,Canada, Montana ,"2,851.00",5,7,"19,957","19,159","14,255","4,904",10, October ,2013
+Small Business,Germany, Montana ,"2,021.00",5,300,"6,06,300","5,82,048","5,05,250","76,798",10, October ,2014
+Enterprise,Mexico, Montana ,"1,138.00",5,125,"1,42,250","1,36,560","1,36,560", -   ,12, December ,2014
+Government,Canada, Paseo ,"4,251.00",10,7,"29,757","28,567","21,255","7,312",1, January ,2014
+Enterprise,Germany, Paseo ,795,10,125,"99,375","95,400","95,400", -   ,3, March ,2014
+Small Business,Germany, Paseo ,"1,414.50",10,300,"4,24,350","4,07,376","3,53,625","53,751",4, April ,2014
+Small Business,United States of America, Paseo ,"2,918.00",10,300,"8,75,400","8,40,384","7,29,500","1,10,884",5, May ,2014
+Government,United States of America, Paseo ,"3,450.00",10,350,"12,07,500","11,59,200","8,97,000","2,62,200",7, July ,2014
+Enterprise,France, Paseo ,"2,988.00",10,125,"3,73,500","3,58,560","3,58,560", -   ,7, July ,2014
+Midmarket,Canada, Paseo ,218,10,15,"3,270","3,139","2,180",959,9, September ,2014
+Government,Canada, Paseo ,"2,074.00",10,20,"41,480","39,821","20,740","19,081",9, September ,2014
+Government,United States of America, Paseo ,"1,056.00",10,20,"21,120","20,275","10,560","9,715",9, September ,2014
+Midmarket,United States of America, Paseo ,671,10,15,"10,065","9,662","6,710","2,952",10, October ,2013
+Midmarket,Mexico, Paseo ,"1,514.00",10,15,"22,710","21,802","15,140","6,662",10, October ,2013
+Government,United States of America, Paseo ,274,10,350,"95,900","92,064","71,240","20,824",12, December ,2014
+Enterprise,Mexico, Paseo ,"1,138.00",10,125,"1,42,250","1,36,560","1,36,560", -   ,12, December ,2014
+Channel Partners,United States of America, Velo ,"1,465.00",120,12,"17,580","16,877","4,395","12,482",3, March ,2014
+Government,Canada, Velo ,"2,646.00",120,20,"52,920","50,803","26,460","24,343",9, September ,2013
+Government,France, Velo ,"2,177.00",120,350,"7,61,950","7,31,472","5,66,020","1,65,452",10, October ,2014
+Channel Partners,France, VTT ,866,250,12,"10,392","9,976","2,598","7,378",5, May ,2014
+Government,United States of America, VTT ,349,250,350,"1,22,150","1,17,264","90,740","26,524",9, September ,2013
+Government,France, VTT ,"2,177.00",250,350,"7,61,950","7,31,472","5,66,020","1,65,452",10, October ,2014
+Midmarket,Mexico, VTT ,"1,514.00",250,15,"22,710","21,802","15,140","6,662",10, October ,2013
+Government,Mexico, Amarilla ,"1,865.00",260,350,"6,52,750","6,26,640","4,84,900","1,41,740",2, February ,2014
+Enterprise,Mexico, Amarilla ,"1,074.00",260,125,"1,34,250","1,28,880","1,28,880", -   ,4, April ,2014
+Government,Germany, Amarilla ,"1,907.00",260,350,"6,67,450","6,40,752","4,95,820","1,44,932",9, September ,2014
+Midmarket,United States of America, Amarilla ,671,260,15,"10,065","9,662","6,710","2,952",10, October ,2013
+Government,Canada, Amarilla ,"1,778.00",260,350,"6,22,300","5,97,408","4,62,280","1,35,128",12, December ,2013
+Government,Germany, Montana ,"1,159.00",5,7,"8,113","7,707","5,795","1,912",10, October ,2013
+Government,Germany, Paseo ,"1,372.00",10,7,"9,604","9,124","6,860","2,264",1, January ,2014
+Government,Canada, Paseo ,"2,349.00",10,7,"16,443","15,621","11,745","3,876",9, September ,2013
+Government,Mexico, Paseo ,"2,689.00",10,7,"18,823","17,882","13,445","4,437",10, October ,2014
+Channel Partners,Canada, Paseo ,"2,431.00",10,12,"29,172","27,713","7,293","20,420",12, December ,2014
+Channel Partners,Canada, Velo ,"2,431.00",120,12,"29,172","27,713","7,293","20,420",12, December ,2014
+Government,Mexico, VTT ,"2,689.00",250,7,"18,823","17,882","13,445","4,437",10, October ,2014
+Government,Mexico, Amarilla ,"1,683.00",260,7,"11,781","11,192","8,415","2,777",7, July ,2014
+Channel Partners,Mexico, Amarilla ,"1,123.00",260,12,"13,476","12,802","3,369","9,433",8, August ,2014
+Government,Germany, Amarilla ,"1,159.00",260,7,"8,113","7,707","5,795","1,912",10, October ,2013
+Channel Partners,France, Carretera ,"1,865.00",3,12,"22,380","21,261","5,595","15,666",2, February ,2014
+Channel Partners,Germany, Carretera ,"1,116.00",3,12,"13,392","12,722","3,348","9,374",2, February ,2014
+Government,France, Carretera ,"1,563.00",3,20,"31,260","29,697","15,630","14,067",5, May ,2014
+Small Business,United States of America, Carretera ,991,3,300,"2,97,300","2,82,435","2,47,750","34,685",6, June ,2014
+Government,Germany, Carretera ,"1,016.00",3,7,"7,112","6,756","5,080","1,676",11, November ,2013
+Midmarket,Mexico, Carretera ,"2,791.00",3,15,"41,865","39,772","27,910","11,862",11, November ,2014
+Government,United States of America, Carretera ,570,3,7,"3,990","3,791","2,850",941,12, December ,2014
+Government,France, Carretera ,"2,487.00",3,7,"17,409","16,539","12,435","4,104",12, December ,2014
+Government,France, Montana ,"1,384.50",5,350,"4,84,575","4,60,346","3,59,970","1,00,376",1, January ,2014
+Enterprise,United States of America, Montana ,"3,627.00",5,125,"4,53,375","4,30,706","4,35,240","-4,534",7, July ,2014
+Government,Mexico, Montana ,720,5,350,"2,52,000","2,39,400","1,87,200","52,200",9, September ,2013
+Channel Partners,Germany, Montana ,"2,342.00",5,12,"28,104","26,699","7,026","19,673",11, November ,2014
+Small Business,Mexico, Montana ,"1,100.00",5,300,"3,30,000","3,13,500","2,75,000","38,500",12, December ,2013
+Government,France, Paseo ,"1,303.00",10,20,"26,060","24,757","13,030","11,727",2, February ,2014
+Enterprise,United States of America, Paseo ,"2,992.00",10,125,"3,74,000","3,55,300","3,59,040","-3,740",3, March ,2014
+Enterprise,France, Paseo ,"2,385.00",10,125,"2,98,125","2,83,219","2,86,200","-2,981",3, March ,2014
+Small Business,Mexico, Paseo ,"1,607.00",10,300,"4,82,100","4,57,995","4,01,750","56,245",4, April ,2014
+Government,United States of America, Paseo ,"2,327.00",10,7,"16,289","15,475","11,635","3,840",5, May ,2014
+Small Business,United States of America, Paseo ,991,10,300,"2,97,300","2,82,435","2,47,750","34,685",6, June ,2014
+Government,United States of America, Paseo ,602,10,350,"2,10,700","2,00,165","1,56,520","43,645",6, June ,2014
+Midmarket,France, Paseo ,"2,620.00",10,15,"39,300","37,335","26,200","11,135",9, September ,2014
+Government,Canada, Paseo ,"1,228.00",10,350,"4,29,800","4,08,310","3,19,280","89,030",10, October ,2013
+Government,Canada, Paseo ,"1,389.00",10,20,"27,780","26,391","13,890","12,501",10, October ,2013
+Enterprise,United States of America, Paseo ,861,10,125,"1,07,625","1,02,244","1,03,320","-1,076",10, October ,2014
+Enterprise,France, Paseo ,704,10,125,"88,000","83,600","84,480",-880,10, October ,2013
+Government,Canada, Paseo ,"1,802.00",10,20,"36,040","34,238","18,020","16,218",12, December ,2013
+Government,United States of America, Paseo ,"2,663.00",10,20,"53,260","50,597","26,630","23,967",12, December ,2014
+Government,France, Paseo ,"2,136.00",10,7,"14,952","14,204","10,680","3,524",12, December ,2013
+Midmarket,Germany, Paseo ,"2,116.00",10,15,"31,740","30,153","21,160","8,993",12, December ,2013
+Midmarket,United States of America, Velo ,555,120,15,"8,325","7,909","5,550","2,359",1, January ,2014
+Midmarket,Mexico, Velo ,"2,861.00",120,15,"42,915","40,769","28,610","12,159",1, January ,2014
+Enterprise,Germany, Velo ,807,120,125,"1,00,875","95,831","96,840","-1,009",2, February ,2014
+Government,United States of America, Velo ,602,120,350,"2,10,700","2,00,165","1,56,520","43,645",6, June ,2014
+Government,United States of America, Velo ,"2,832.00",120,20,"56,640","53,808","28,320","25,488",8, August ,2014
+Government,France, Velo ,"1,579.00",120,20,"31,580","30,001","15,790","14,211",8, August ,2014
+Enterprise,United States of America, Velo ,861,120,125,"1,07,625","1,02,244","1,03,320","-1,076",10, October ,2014
+Enterprise,France, Velo ,704,120,125,"88,000","83,600","84,480",-880,10, October ,2013
+Government,France, Velo ,"1,033.00",120,20,"20,660","19,627","10,330","9,297",12, December ,2013
+Small Business,Germany, Velo ,"1,250.00",120,300,"3,75,000","3,56,250","3,12,500","43,750",12, December ,2014
+Government,Canada, VTT ,"1,389.00",250,20,"27,780","26,391","13,890","12,501",10, October ,2013
+Government,United States of America, VTT ,"1,265.00",250,20,"25,300","24,035","12,650","11,385",11, November ,2013
+Government,Germany, VTT ,"2,297.00",250,20,"45,940","43,643","22,970","20,673",11, November ,2013
+Government,United States of America, VTT ,"2,663.00",250,20,"53,260","50,597","26,630","23,967",12, December ,2014
+Government,United States of America, VTT ,570,250,7,"3,990","3,791","2,850",941,12, December ,2014
+Government,France, VTT ,"2,487.00",250,7,"17,409","16,539","12,435","4,104",12, December ,2014
+Government,Germany, Amarilla ,"1,350.00",260,350,"4,72,500","4,48,875","3,51,000","97,875",2, February ,2014
+Government,Canada, Amarilla ,552,260,350,"1,93,200","1,83,540","1,43,520","40,020",8, August ,2014
+Government,Canada, Amarilla ,"1,228.00",260,350,"4,29,800","4,08,310","3,19,280","89,030",10, October ,2013
+Small Business,Germany, Amarilla ,"1,250.00",260,300,"3,75,000","3,56,250","3,12,500","43,750",12, December ,2014
+Midmarket,France, Paseo ,"3,801.00",10,15,"57,015","53,594","38,010","15,584",4, April ,2014
+Government,United States of America, Carretera ,"1,117.50",3,20,"22,350","21,009","11,175","9,834",1, January ,2014
+Midmarket,Canada, Carretera ,"2,844.00",3,15,"42,660","40,100","28,440","11,660",6, June ,2014
+Channel Partners,Mexico, Carretera ,562,3,12,"6,744","6,339","1,686","4,653",9, September ,2014
+Channel Partners,Canada, Carretera ,"2,299.00",3,12,"27,588","25,933","6,897","19,036",10, October ,2013
+Midmarket,United States of America, Carretera ,"2,030.00",3,15,"30,450","28,623","20,300","8,323",11, November ,2014
+Government,United States of America, Carretera ,263,3,7,"1,841","1,731","1,315",416,11, November ,2013
+Enterprise,Germany, Carretera ,887,3,125,"1,10,875","1,04,223","1,06,440","-2,218",12, December ,2013
+Government,Mexico, Montana ,980,5,350,"3,43,000","3,22,420","2,54,800","67,620",4, April ,2014
+Government,Germany, Montana ,"1,460.00",5,350,"5,11,000","4,80,340","3,79,600","1,00,740",5, May ,2014
+Government,France, Montana ,"1,403.00",5,7,"9,821","9,232","7,015","2,217",10, October ,2013
+Channel Partners,United States of America, Montana ,"2,723.00",5,12,"32,676","30,715","8,169","22,546",11, November ,2014
+Government,France, Paseo ,"1,496.00",10,350,"5,23,600","4,92,184","3,88,960","1,03,224",6, June ,2014
+Channel Partners,Canada, Paseo ,"2,299.00",10,12,"27,588","25,933","6,897","19,036",10, October ,2013
+Government,United States of America, Paseo ,727,10,350,"2,54,450","2,39,183","1,89,020","50,163",10, October ,2013
+Enterprise,Canada, Velo ,952,120,125,"1,19,000","1,11,860","1,14,240","-2,380",2, February ,2014
+Enterprise,United States of America, Velo ,"2,755.00",120,125,"3,44,375","3,23,713","3,30,600","-6,888",2, February ,2014
+Midmarket,Germany, Velo ,"1,530.00",120,15,"22,950","21,573","15,300","6,273",5, May ,2014
+Government,France, Velo ,"1,496.00",120,350,"5,23,600","4,92,184","3,88,960","1,03,224",6, June ,2014
+Government,Mexico, Velo ,"1,498.00",120,7,"10,486","9,857","7,490","2,367",6, June ,2014
+Small Business,France, Velo ,"1,221.00",120,300,"3,66,300","3,44,322","3,05,250","39,072",10, October ,2013
+Government,France, Velo ,"2,076.00",120,350,"7,26,600","6,83,004","5,39,760","1,43,244",10, October ,2013
+Midmarket,Canada, VTT ,"2,844.00",250,15,"42,660","40,100","28,440","11,660",6, June ,2014
+Government,Mexico, VTT ,"1,498.00",250,7,"10,486","9,857","7,490","2,367",6, June ,2014
+Small Business,France, VTT ,"1,221.00",250,300,"3,66,300","3,44,322","3,05,250","39,072",10, October ,2013
+Government,Mexico, VTT ,"1,123.00",250,20,"22,460","21,112","11,230","9,882",11, November ,2013
+Small Business,Canada, VTT ,"2,436.00",250,300,"7,30,800","6,86,952","6,09,000","77,952",12, December ,2013
+Enterprise,France, Amarilla ,"1,987.50",260,125,"2,48,438","2,33,531","2,38,500","-4,969",1, January ,2014
+Government,Mexico, Amarilla ,"1,679.00",260,350,"5,87,650","5,52,391","4,36,540","1,15,851",9, September ,2014
+Government,United States of America, Amarilla ,727,260,350,"2,54,450","2,39,183","1,89,020","50,163",10, October ,2013
+Government,France, Amarilla ,"1,403.00",260,7,"9,821","9,232","7,015","2,217",10, October ,2013
+Government,France, Amarilla ,"2,076.00",260,350,"7,26,600","6,83,004","5,39,760","1,43,244",10, October ,2013
+Government,France, Montana ,"1,757.00",5,20,"35,140","33,032","17,570","15,462",10, October ,2013
+Midmarket,United States of America, Paseo ,"2,198.00",10,15,"32,970","30,992","21,980","9,012",8, August ,2014
+Midmarket,Germany, Paseo ,"1,743.00",10,15,"26,145","24,576","17,430","7,146",8, August ,2014
+Midmarket,United States of America, Paseo ,"1,153.00",10,15,"17,295","16,257","11,530","4,727",10, October ,2014
+Government,France, Paseo ,"1,757.00",10,20,"35,140","33,032","17,570","15,462",10, October ,2013
+Government,Germany, Velo ,"1,001.00",120,20,"20,020","18,819","10,010","8,809",8, August ,2014
+Government,Mexico, Velo ,"1,333.00",120,7,"9,331","8,771","6,665","2,106",11, November ,2014
+Midmarket,United States of America, VTT ,"1,153.00",250,15,"17,295","16,257","11,530","4,727",10, October ,2014
+Channel Partners,Mexico, Carretera ,727,3,12,"8,724","8,113","2,181","5,932",2, February ,2014
+Channel Partners,Canada, Carretera ,"1,884.00",3,12,"22,608","21,025","5,652","15,373",8, August ,2014
+Government,Mexico, Carretera ,"1,834.00",3,20,"36,680","34,112","18,340","15,772",9, September ,2013
+Channel Partners,Mexico, Montana ,"2,340.00",5,12,"28,080","26,114","7,020","19,094",1, January ,2014
+Channel Partners,France, Montana ,"2,342.00",5,12,"28,104","26,137","7,026","19,111",11, November ,2014
+Government,France, Paseo ,"1,031.00",10,7,"7,217","6,712","5,155","1,557",9, September ,2013
+Midmarket,Canada, Velo ,"1,262.00",120,15,"18,930","17,605","12,620","4,985",5, May ,2014
+Government,Canada, Velo ,"1,135.00",120,7,"7,945","7,389","5,675","1,714",6, June ,2014
+Government,United States of America, Velo ,547,120,7,"3,829","3,561","2,735",826,11, November ,2014
+Government,Canada, Velo ,"1,582.00",120,7,"11,074","10,299","7,910","2,389",12, December ,2014
+Channel Partners,France, VTT ,"1,738.50",250,12,"20,862","19,402","5,216","14,186",4, April ,2014
+Channel Partners,Germany, VTT ,"2,215.00",250,12,"26,580","24,719","6,645","18,074",9, September ,2013
+Government,Canada, VTT ,"1,582.00",250,7,"11,074","10,299","7,910","2,389",12, December ,2014
+Government,Canada, Amarilla ,"1,135.00",260,7,"7,945","7,389","5,675","1,714",6, June ,2014
+Government,United States of America, Carretera ,"1,761.00",3,350,"6,16,350","5,73,206","4,57,860","1,15,346",3, March ,2014
+Small Business,France, Carretera ,448,3,300,"1,34,400","1,24,992","1,12,000","12,992",6, June ,2014
+Small Business,France, Carretera ,"2,181.00",3,300,"6,54,300","6,08,499","5,45,250","63,249",10, October ,2014
+Government,France, Montana ,"1,976.00",5,20,"39,520","36,754","19,760","16,994",10, October ,2014
+Small Business,France, Montana ,"2,181.00",5,300,"6,54,300","6,08,499","5,45,250","63,249",10, October ,2014
+Enterprise,Germany, Montana ,"2,500.00",5,125,"3,12,500","2,90,625","3,00,000","-9,375",11, November ,2013
+Small Business,Canada, Paseo ,"1,702.00",10,300,"5,10,600","4,74,858","4,25,500","49,358",5, May ,2014
+Small Business,France, Paseo ,448,10,300,"1,34,400","1,24,992","1,12,000","12,992",6, June ,2014
+Enterprise,Germany, Paseo ,"3,513.00",10,125,"4,39,125","4,08,386","4,21,560","-13,174",7, July ,2014
+Midmarket,France, Paseo ,"2,101.00",10,15,"31,515","29,309","21,010","8,299",8, August ,2014
+Midmarket,United States of America, Paseo ,"2,931.00",10,15,"43,965","40,887","29,310","11,577",9, September ,2013
+Government,France, Paseo ,"1,535.00",10,20,"30,700","28,551","15,350","13,201",9, September ,2014
+Small Business,Germany, Paseo ,"1,123.00",10,300,"3,36,900","3,13,317","2,80,750","32,567",9, September ,2013
+Small Business,Canada, Paseo ,"1,404.00",10,300,"4,21,200","3,91,716","3,51,000","40,716",11, November ,2013
+Channel Partners,Mexico, Paseo ,"2,763.00",10,12,"33,156","30,835","8,289","22,546",11, November ,2013
+Government,Germany, Paseo ,"2,125.00",10,7,"14,875","13,834","10,625","3,209",12, December ,2013
+Small Business,France, Velo ,"1,659.00",120,300,"4,97,700","4,62,861","4,14,750","48,111",7, July ,2014
+Government,Mexico, Velo ,609,120,20,"12,180","11,327","6,090","5,237",8, August ,2014
+Enterprise,Germany, Velo ,"2,087.00",120,125,"2,60,875","2,42,614","2,50,440","-7,826",9, September ,2014
+Government,France, Velo ,"1,976.00",120,20,"39,520","36,754","19,760","16,994",10, October ,2014
+Government,United States of America, Velo ,"1,421.00",120,20,"28,420","26,431","14,210","12,221",12, December ,2013
+Small Business,United States of America, Velo ,"1,372.00",120,300,"4,11,600","3,82,788","3,43,000","39,788",12, December ,2014
+Government,Germany, Velo ,588,120,20,"11,760","10,937","5,880","5,057",12, December ,2013
+Channel Partners,Canada, VTT ,"3,244.50",250,12,"38,934","36,209","9,734","26,475",1, January ,2014
+Small Business,France, VTT ,959,250,300,"2,87,700","2,67,561","2,39,750","27,811",2, February ,2014
+Small Business,Mexico, VTT ,"2,747.00",250,300,"8,24,100","7,66,413","6,86,750","79,663",2, February ,2014
+Enterprise,Canada, Amarilla ,"1,645.00",260,125,"2,05,625","1,91,231","1,97,400","-6,169",5, May ,2014
+Government,France, Amarilla ,"2,876.00",260,350,"10,06,600","9,36,138","7,47,760","1,88,378",9, September ,2014
+Enterprise,Germany, Amarilla ,994,260,125,"1,24,250","1,15,553","1,19,280","-3,728",9, September ,2013
+Government,Canada, Amarilla ,"1,118.00",260,20,"22,360","20,795","11,180","9,615",11, November ,2014
+Small Business,United States of America, Amarilla ,"1,372.00",260,300,"4,11,600","3,82,788","3,43,000","39,788",12, December ,2014
+Government,Canada, Montana ,488,5,7,"3,416","3,143","2,440",703,2, February ,2014
+Government,United States of America, Montana ,"1,282.00",5,20,"25,640","23,589","12,820","10,769",6, June ,2014
+Government,Canada, Paseo ,257,10,7,"1,799","1,655","1,285",370,5, May ,2014
+Government,United States of America, Amarilla ,"1,282.00",260,20,"25,640","23,589","12,820","10,769",6, June ,2014
+Enterprise,Mexico, Carretera ,"1,540.00",3,125,"1,92,500","1,77,100","1,84,800","-7,700",8, August ,2014
+Midmarket,France, Carretera ,490,3,15,"7,350","6,762","4,900","1,862",11, November ,2014
+Government,Mexico, Carretera ,"1,362.00",3,350,"4,76,700","4,38,564","3,54,120","84,444",12, December ,2014
+Midmarket,France, Montana ,"2,501.00",5,15,"37,515","34,514","25,010","9,504",3, March ,2014
+Government,Canada, Montana ,708,5,20,"14,160","13,027","7,080","5,947",6, June ,2014
+Government,Germany, Montana ,645,5,20,"12,900","11,868","6,450","5,418",7, July ,2014
+Small Business,France, Montana ,"1,562.00",5,300,"4,68,600","4,31,112","3,90,500","40,612",8, August ,2014
+Small Business,Canada, Montana ,"1,283.00",5,300,"3,84,900","3,54,108","3,20,750","33,358",9, September ,2013
+Midmarket,Germany, Montana ,711,5,15,"10,665","9,812","7,110","2,702",12, December ,2014
+Enterprise,Mexico, Paseo ,"1,114.00",10,125,"1,39,250","1,28,110","1,33,680","-5,570",3, March ,2014
+Government,Germany, Paseo ,"1,259.00",10,7,"8,813","8,108","6,295","1,813",4, April ,2014
+Government,Germany, Paseo ,"1,095.00",10,7,"7,665","7,052","5,475","1,577",5, May ,2014
+Government,Germany, Paseo ,"1,366.00",10,20,"27,320","25,134","13,660","11,474",6, June ,2014
+Small Business,Mexico, Paseo ,"2,460.00",10,300,"7,38,000","6,78,960","6,15,000","63,960",6, June ,2014
+Government,United States of America, Paseo ,678,10,7,"4,746","4,366","3,390",976,8, August ,2014
+Government,Germany, Paseo ,"1,598.00",10,7,"11,186","10,291","7,990","2,301",8, August ,2014
+Government,Germany, Paseo ,"2,409.00",10,7,"16,863","15,514","12,045","3,469",9, September ,2013
+Government,Germany, Paseo ,"1,934.00",10,20,"38,680","35,586","19,340","16,246",9, September ,2014
+Government,Mexico, Paseo ,"2,993.00",10,20,"59,860","55,071","29,930","25,141",9, September ,2014
+Government,Germany, Paseo ,"2,146.00",10,350,"7,51,100","6,91,012","5,57,960","1,33,052",11, November ,2013
+Government,Mexico, Paseo ,"1,946.00",10,7,"13,622","12,532","9,730","2,802",12, December ,2013
+Government,Mexico, Paseo ,"1,362.00",10,350,"4,76,700","4,38,564","3,54,120","84,444",12, December ,2014
+Channel Partners,Canada, Velo ,598,120,12,"7,176","6,602","1,794","4,808",3, March ,2014
+Government,United States of America, Velo ,"2,907.00",120,7,"20,349","18,721","14,535","4,186",6, June ,2014
+Government,Germany, Velo ,"2,338.00",120,7,"16,366","15,057","11,690","3,367",6, June ,2014
+Small Business,France, Velo ,386,120,300,"1,15,800","1,06,536","96,500","10,036",11, November ,2013
+Small Business,Mexico, Velo ,635,120,300,"1,90,500","1,75,260","1,58,750","16,510",12, December ,2014
+Government,France, VTT ,574.5,250,350,"2,01,075","1,84,989","1,49,370","35,619",4, April ,2014
+Government,Germany, VTT ,"2,338.00",250,7,"16,366","15,057","11,690","3,367",6, June ,2014
+Government,France, VTT ,381,250,350,"1,33,350","1,22,682","99,060","23,622",8, August ,2014
+Government,Germany, VTT ,422,250,350,"1,47,700","1,35,884","1,09,720","26,164",8, August ,2014
+Small Business,Canada, VTT ,"2,134.00",250,300,"6,40,200","5,88,984","5,33,500","55,484",9, September ,2014
+Small Business,United States of America, VTT ,808,250,300,"2,42,400","2,23,008","2,02,000","21,008",12, December ,2013
+Government,Canada, Amarilla ,708,260,20,"14,160","13,027","7,080","5,947",6, June ,2014
+Government,United States of America, Amarilla ,"2,907.00",260,7,"20,349","18,721","14,535","4,186",6, June ,2014
+Government,Germany, Amarilla ,"1,366.00",260,20,"27,320","25,134","13,660","11,474",6, June ,2014
+Small Business,Mexico, Amarilla ,"2,460.00",260,300,"7,38,000","6,78,960","6,15,000","63,960",6, June ,2014
+Government,Germany, Amarilla ,"1,520.00",260,20,"30,400","27,968","15,200","12,768",11, November ,2014
+Midmarket,Germany, Amarilla ,711,260,15,"10,665","9,812","7,110","2,702",12, December ,2014
+Channel Partners,Mexico, Amarilla ,"1,375.00",260,12,"16,500","15,180","4,125","11,055",12, December ,2013
+Small Business,Mexico, Amarilla ,635,260,300,"1,90,500","1,75,260","1,58,750","16,510",12, December ,2014
+Government,United States of America, VTT ,436.5,250,20,"8,730","8,032","4,365","3,667",7, July ,2014
+Small Business,Canada, Carretera ,"1,094.00",3,300,"3,28,200","2,98,662","2,73,500","25,162",6, June ,2014
+Channel Partners,Mexico, Carretera ,367,3,12,"4,404","4,008","1,101","2,907",10, October ,2013
+Small Business,Canada, Montana ,"3,802.50",5,300,"11,40,750","10,38,083","9,50,625","87,458",4, April ,2014
+Government,France, Montana ,"1,666.00",5,350,"5,83,100","5,30,621","4,33,160","97,461",5, May ,2014
+Small Business,France, Montana ,322,5,300,"96,600","87,906","80,500","7,406",9, September ,2013
+Channel Partners,Canada, Montana ,"2,321.00",5,12,"27,852","25,345","6,963","18,382",11, November ,2014
+Enterprise,France, Montana ,"1,857.00",5,125,"2,32,125","2,11,234","2,22,840","-11,606",11, November ,2013
+Government,Canada, Montana ,"1,611.00",5,7,"11,277","10,262","8,055","2,207",12, December ,2013
+Enterprise,United States of America, Montana ,"2,797.00",5,125,"3,49,625","3,18,159","3,35,640","-17,481",12, December ,2014
+Small Business,Germany, Montana ,334,5,300,"1,00,200","91,182","83,500","7,682",12, December ,2013
+Small Business,Mexico, Paseo ,"2,565.00",10,300,"7,69,500","7,00,245","6,41,250","58,995",1, January ,2014
+Government,Mexico, Paseo ,"2,417.00",10,350,"8,45,950","7,69,815","6,28,420","1,41,395",1, January ,2014
+Midmarket,United States of America, Paseo ,"3,675.00",10,15,"55,125","50,164","36,750","13,414",4, April ,2014
+Small Business,Canada, Paseo ,"1,094.00",10,300,"3,28,200","2,98,662","2,73,500","25,162",6, June ,2014
+Midmarket,France, Paseo ,"1,227.00",10,15,"18,405","16,749","12,270","4,479",10, October ,2014
+Channel Partners,Mexico, Paseo ,367,10,12,"4,404","4,008","1,101","2,907",10, October ,2013
+Small Business,France, Paseo ,"1,324.00",10,300,"3,97,200","3,61,452","3,31,000","30,452",11, November ,2014
+Channel Partners,Germany, Paseo ,"1,775.00",10,12,"21,300","19,383","5,325","14,058",11, November ,2013
+Enterprise,United States of America, Paseo ,"2,797.00",10,125,"3,49,625","3,18,159","3,35,640","-17,481",12, December ,2014
+Midmarket,Mexico, Velo ,245,120,15,"3,675","3,344","2,450",894,5, May ,2014
+Small Business,Canada, Velo ,"3,793.50",120,300,"11,38,050","10,35,626","9,48,375","87,251",7, July ,2014
+Government,Germany, Velo ,"1,307.00",120,350,"4,57,450","4,16,280","3,39,820","76,460",7, July ,2014
+Enterprise,Canada, Velo ,567,120,125,"70,875","64,496","68,040","-3,544",9, September ,2014
+Enterprise,Mexico, Velo ,"2,110.00",120,125,"2,63,750","2,40,013","2,53,200","-13,188",9, September ,2014
+Government,Canada, Velo ,"1,269.00",120,350,"4,44,150","4,04,177","3,29,940","74,237",10, October ,2014
+Channel Partners,United States of America, VTT ,"1,956.00",250,12,"23,472","21,360","5,868","15,492",1, January ,2014
+Small Business,Germany, VTT ,"2,659.00",250,300,"7,97,700","7,25,907","6,64,750","61,157",2, February ,2014
+Government,United States of America, VTT ,"1,351.50",250,350,"4,73,025","4,30,453","3,51,390","79,063",4, April ,2014
+Channel Partners,Germany, VTT ,880,250,12,"10,560","9,610","2,640","6,970",5, May ,2014
+Small Business,United States of America, VTT ,"1,867.00",250,300,"5,60,100","5,09,691","4,66,750","42,941",9, September ,2014
+Channel Partners,France, VTT ,"2,234.00",250,12,"26,808","24,395","6,702","17,693",9, September ,2013
+Midmarket,France, VTT ,"1,227.00",250,15,"18,405","16,749","12,270","4,479",10, October ,2014
+Enterprise,Mexico, VTT ,877,250,125,"1,09,625","99,759","1,05,240","-5,481",11, November ,2014
+Government,United States of America, Amarilla ,"2,071.00",260,350,"7,24,850","6,59,614","5,38,460","1,21,154",9, September ,2014
+Government,Canada, Amarilla ,"1,269.00",260,350,"4,44,150","4,04,177","3,29,940","74,237",10, October ,2014
+Midmarket,Germany, Amarilla ,970,260,15,"14,550","13,241","9,700","3,541",11, November ,2013
+Government,Mexico, Amarilla ,"1,694.00",260,20,"33,880","30,831","16,940","13,891",11, November ,2014
+Government,Germany, Carretera ,663,3,20,"13,260","12,067","6,630","5,437",5, May ,2014
+Government,Canada, Carretera ,819,3,7,"5,733","5,217","4,095","1,122",7, July ,2014
+Channel Partners,Germany, Carretera ,"1,580.00",3,12,"18,960","17,254","4,740","12,514",9, September ,2014
+Government,Mexico, Carretera ,521,3,7,"3,647","3,319","2,605",714,12, December ,2014
+Government,United States of America, Paseo ,973,10,20,"19,460","17,709","9,730","7,979",3, March ,2014
+Government,Mexico, Paseo ,"1,038.00",10,20,"20,760","18,892","10,380","8,512",6, June ,2014
+Government,Germany, Paseo ,360,10,7,"2,520","2,293","1,800",493,10, October ,2014
+Channel Partners,France, Velo ,"1,967.00",120,12,"23,604","21,480","5,901","15,579",3, March ,2014
+Midmarket,Mexico, Velo ,"2,628.00",120,15,"39,420","35,872","26,280","9,592",4, April ,2014
+Government,Germany, VTT ,360,250,7,"2,520","2,293","1,800",493,10, October ,2014
+Government,France, VTT ,"2,682.00",250,20,"53,640","48,812","26,820","21,992",11, November ,2013
+Government,Mexico, VTT ,521,250,7,"3,647","3,319","2,605",714,12, December ,2014
+Government,Mexico, Amarilla ,"1,038.00",260,20,"20,760","18,892","10,380","8,512",6, June ,2014
+Midmarket,Canada, Amarilla ,"1,630.50",260,15,"24,458","22,256","16,305","5,951",7, July ,2014
+Channel Partners,France, Amarilla ,306,260,12,"3,672","3,342",918,"2,424",12, December ,2013
+Channel Partners,United States of America, Carretera ,386,3,12,"4,632","4,169","1,158","3,011",10, October ,2013
+Government,United States of America, Montana ,"2,328.00",5,7,"16,296","14,666","11,640","3,026",9, September ,2014
+Channel Partners,United States of America, Paseo ,386,10,12,"4,632","4,169","1,158","3,011",10, October ,2013
+Enterprise,United States of America, Carretera ,"3,445.50",3,125,"4,30,688","3,87,619","4,13,460","-25,841",4, April ,2014
+Enterprise,France, Carretera ,"1,482.00",3,125,"1,85,250","1,66,725","1,77,840","-11,115",12, December ,2013
+Government,United States of America, Montana ,"2,313.00",5,350,"8,09,550","7,28,595","6,01,380","1,27,215",5, May ,2014
+Enterprise,United States of America, Montana ,"1,804.00",5,125,"2,25,500","2,02,950","2,16,480","-13,530",11, November ,2013
+Midmarket,France, Montana ,"2,072.00",5,15,"31,080","27,972","20,720","7,252",12, December ,2014
+Government,France, Paseo ,"1,954.00",10,20,"39,080","35,172","19,540","15,632",3, March ,2014
+Small Business,Mexico, Paseo ,591,10,300,"1,77,300","1,59,570","1,47,750","11,820",5, May ,2014
+Midmarket,France, Paseo ,"2,167.00",10,15,"32,505","29,255","21,670","7,585",10, October ,2013
+Government,Germany, Paseo ,241,10,20,"4,820","4,338","2,410","1,928",10, October ,2014
+Midmarket,Germany, Velo ,681,120,15,"10,215","9,194","6,810","2,384",1, January ,2014
+Midmarket,Germany, Velo ,510,120,15,"7,650","6,885","5,100","1,785",4, April ,2014
+Midmarket,United States of America, Velo ,790,120,15,"11,850","10,665","7,900","2,765",5, May ,2014
+Government,France, Velo ,639,120,350,"2,23,650","2,01,285","1,66,140","35,145",7, July ,2014
+Enterprise,United States of America, Velo ,"1,596.00",120,125,"1,99,500","1,79,550","1,91,520","-11,970",9, September ,2014
+Small Business,United States of America, Velo ,"2,294.00",120,300,"6,88,200","6,19,380","5,73,500","45,880",10, October ,2013
+Government,Germany, Velo ,241,120,20,"4,820","4,338","2,410","1,928",10, October ,2014
+Government,Germany, Velo ,"2,665.00",120,7,"18,655","16,790","13,325","3,465",11, November ,2014
+Enterprise,Canada, Velo ,"1,916.00",120,125,"2,39,500","2,15,550","2,29,920","-14,370",12, December ,2013
+Small Business,France, Velo ,853,120,300,"2,55,900","2,30,310","2,13,250","17,060",12, December ,2014
+Enterprise,Mexico, VTT ,341,250,125,"42,625","38,363","40,920","-2,558",5, May ,2014
+Midmarket,Mexico, VTT ,641,250,15,"9,615","8,654","6,410","2,244",7, July ,2014
+Government,United States of America, VTT ,"2,807.00",250,350,"9,82,450","8,84,205","7,29,820","1,54,385",8, August ,2014
+Small Business,Mexico, VTT ,432,250,300,"1,29,600","1,16,640","1,08,000","8,640",9, September ,2014
+Small Business,United States of America, VTT ,"2,294.00",250,300,"6,88,200","6,19,380","5,73,500","45,880",10, October ,2013
+Midmarket,France, VTT ,"2,167.00",250,15,"32,505","29,255","21,670","7,585",10, October ,2013
+Enterprise,Canada, VTT ,"2,529.00",250,125,"3,16,125","2,84,513","3,03,480","-18,968",11, November ,2014
+Government,Germany, VTT ,"1,870.00",250,350,"6,54,500","5,89,050","4,86,200","1,02,850",12, December ,2013
+Enterprise,United States of America, Amarilla ,579,260,125,"72,375","65,138","69,480","-4,343",1, January ,2014
+Government,Canada, Amarilla ,"2,240.00",260,350,"7,84,000","7,05,600","5,82,400","1,23,200",2, February ,2014
+Small Business,United States of America, Amarilla ,"2,993.00",260,300,"8,97,900","8,08,110","7,48,250","59,860",3, March ,2014
+Channel Partners,Canada, Amarilla ,"3,520.50",260,12,"42,246","38,021","10,562","27,460",4, April ,2014
+Government,Mexico, Amarilla ,"2,039.00",260,20,"40,780","36,702","20,390","16,312",5, May ,2014
+Channel Partners,Germany, Amarilla ,"2,574.00",260,12,"30,888","27,799","7,722","20,077",8, August ,2014
+Government,Canada, Amarilla ,707,260,350,"2,47,450","2,22,705","1,83,820","38,885",9, September ,2014
+Midmarket,France, Amarilla ,"2,072.00",260,15,"31,080","27,972","20,720","7,252",12, December ,2014
+Small Business,France, Amarilla ,853,260,300,"2,55,900","2,30,310","2,13,250","17,060",12, December ,2014
+Channel Partners,France, Carretera ,"1,198.00",3,12,"14,376","12,795","3,594","9,201",10, October ,2013
+Government,France, Paseo ,"2,532.00",10,7,"17,724","15,774","12,660","3,114",4, April ,2014
+Channel Partners,France, Paseo ,"1,198.00",10,12,"14,376","12,795","3,594","9,201",10, October ,2013
+Midmarket,Canada, Velo ,384,120,15,"5,760","5,126","3,840","1,286",1, January ,2014
+Channel Partners,Germany, Velo ,472,120,12,"5,664","5,041","1,416","3,625",10, October ,2014
+Government,United States of America, VTT ,"1,579.00",250,7,"11,053","9,837","7,895","1,942",3, March ,2014
+Channel Partners,Mexico, VTT ,"1,005.00",250,12,"12,060","10,733","3,015","7,718",9, September ,2013
+Midmarket,United States of America, Amarilla ,"3,199.50",260,15,"47,993","42,713","31,995","10,718",7, July ,2014
+Channel Partners,Germany, Amarilla ,472,260,12,"5,664","5,041","1,416","3,625",10, October ,2014
+Channel Partners,Canada, Carretera ,"1,937.00",3,12,"23,244","20,687","5,811","14,876",2, February ,2014
+Government,Germany, Carretera ,792,3,350,"2,77,200","2,46,708","2,05,920","40,788",3, March ,2014
+Small Business,Germany, Carretera ,"2,811.00",3,300,"8,43,300","7,50,537","7,02,750","47,787",7, July ,2014
+Enterprise,France, Carretera ,"2,441.00",3,125,"3,05,125","2,71,561","2,92,920","-21,359",10, October ,2014
+Midmarket,Canada, Carretera ,"1,560.00",3,15,"23,400","20,826","15,600","5,226",11, November ,2013
+Government,Mexico, Carretera ,"2,706.00",3,7,"18,942","16,858","13,530","3,328",11, November ,2013
+Government,Germany, Montana ,766,5,350,"2,68,100","2,38,609","1,99,160","39,449",1, January ,2014
+Government,Germany, Montana ,"2,992.00",5,20,"59,840","53,258","29,920","23,338",10, October ,2013
+Midmarket,Mexico, Montana ,"2,157.00",5,15,"32,355","28,796","21,570","7,226",12, December ,2014
+Small Business,Canada, Paseo ,873,10,300,"2,61,900","2,33,091","2,18,250","14,841",1, January ,2014
+Government,Mexico, Paseo ,"1,122.00",10,20,"22,440","19,972","11,220","8,752",3, March ,2014
+Government,Canada, Paseo ,"2,104.50",10,350,"7,36,575","6,55,552","5,47,170","1,08,382",7, July ,2014
+Channel Partners,Canada, Paseo ,"4,026.00",10,12,"48,312","42,998","12,078","30,920",7, July ,2014
+Channel Partners,France, Paseo ,"2,425.50",10,12,"29,106","25,904","7,277","18,628",7, July ,2014
+Government,Canada, Paseo ,"2,394.00",10,20,"47,880","42,613","23,940","18,673",8, August ,2014
+Midmarket,Mexico, Paseo ,"1,984.00",10,15,"29,760","26,486","19,840","6,646",8, August ,2014
+Enterprise,France, Paseo ,"2,441.00",10,125,"3,05,125","2,71,561","2,92,920","-21,359",10, October ,2014
+Government,Germany, Paseo ,"2,992.00",10,20,"59,840","53,258","29,920","23,338",10, October ,2013
+Small Business,Canada, Paseo ,"1,366.00",10,300,"4,09,800","3,64,722","3,41,500","23,222",11, November ,2014
+Government,France, Velo ,"2,805.00",120,20,"56,100","49,929","28,050","21,879",9, September ,2013
+Midmarket,Mexico, Velo ,655,120,15,"9,825","8,744","6,550","2,194",9, September ,2013
+Government,Mexico, Velo ,344,120,350,"1,20,400","1,07,156","89,440","17,716",10, October ,2013
+Government,Canada, Velo ,"1,808.00",120,7,"12,656","11,264","9,040","2,224",11, November ,2014
+Channel Partners,France, VTT ,"1,734.00",250,12,"20,808","18,519","5,202","13,317",1, January ,2014
+Enterprise,Mexico, VTT ,554,250,125,"69,250","61,633","66,480","-4,848",1, January ,2014
+Government,Canada, VTT ,"2,935.00",250,20,"58,700","52,243","29,350","22,893",11, November ,2013
+Enterprise,Germany, Amarilla ,"3,165.00",260,125,"3,95,625","3,52,106","3,79,800","-27,694",1, January ,2014
+Government,Mexico, Amarilla ,"2,629.00",260,20,"52,580","46,796","26,290","20,506",1, January ,2014
+Enterprise,France, Amarilla ,"1,433.00",260,125,"1,79,125","1,59,421","1,71,960","-12,539",5, May ,2014
+Enterprise,Mexico, Amarilla ,947,260,125,"1,18,375","1,05,354","1,13,640","-8,286",9, September ,2013
+Government,Mexico, Amarilla ,344,260,350,"1,20,400","1,07,156","89,440","17,716",10, October ,2013
+Midmarket,Mexico, Amarilla ,"2,157.00",260,15,"32,355","28,796","21,570","7,226",12, December ,2014
+Government,United States of America, Paseo ,380,10,7,"2,660","2,367","1,900",467,9, September ,2013
+Government,Mexico, Carretera ,886,3,350,"3,10,100","2,72,888","2,30,360","42,528",6, June ,2014
+Enterprise,Canada, Carretera ,"2,416.00",3,125,"3,02,000","2,65,760","2,89,920","-24,160",9, September ,2013
+Enterprise,Mexico, Carretera ,"2,156.00",3,125,"2,69,500","2,37,160","2,58,720","-21,560",10, October ,2014
+Midmarket,Canada, Carretera ,"2,689.00",3,15,"40,335","35,495","26,890","8,605",11, November ,2014
+Midmarket,United States of America, Montana ,677,5,15,"10,155","8,936","6,770","2,166",3, March ,2014
+Small Business,France, Montana ,"1,773.00",5,300,"5,31,900","4,68,072","4,43,250","24,822",4, April ,2014
+Government,Mexico, Montana ,"2,420.00",5,7,"16,940","14,907","12,100","2,807",9, September ,2014
+Government,Canada, Montana ,"2,734.00",5,7,"19,138","16,841","13,670","3,171",10, October ,2014
+Government,Mexico, Montana ,"1,715.00",5,20,"34,300","30,184","17,150","13,034",10, October ,2013
+Small Business,France, Montana ,"1,186.00",5,300,"3,55,800","3,13,104","2,96,500","16,604",12, December ,2013
+Small Business,United States of America, Paseo ,"3,495.00",10,300,"10,48,500","9,22,680","8,73,750","48,930",1, January ,2014
+Government,Mexico, Paseo ,886,10,350,"3,10,100","2,72,888","2,30,360","42,528",6, June ,2014
+Enterprise,Mexico, Paseo ,"2,156.00",10,125,"2,69,500","2,37,160","2,58,720","-21,560",10, October ,2014
+Government,Mexico, Paseo ,905,10,20,"18,100","15,928","9,050","6,878",10, October ,2014
+Government,Mexico, Paseo ,"1,715.00",10,20,"34,300","30,184","17,150","13,034",10, October ,2013
+Government,France, Paseo ,"1,594.00",10,350,"5,57,900","4,90,952","4,14,440","76,512",11, November ,2014
+Small Business,Germany, Paseo ,"1,359.00",10,300,"4,07,700","3,58,776","3,39,750","19,026",11, November ,2014
+Small Business,Mexico, Paseo ,"2,150.00",10,300,"6,45,000","5,67,600","5,37,500","30,100",11, November ,2014
+Government,Mexico, Paseo ,"1,197.00",10,350,"4,18,950","3,68,676","3,11,220","57,456",11, November ,2014
+Midmarket,Mexico, Paseo ,380,10,15,"5,700","5,016","3,800","1,216",12, December ,2013
+Government,Mexico, Paseo ,"1,233.00",10,20,"24,660","21,701","12,330","9,371",12, December ,2014
+Government,Mexico, Velo ,"1,395.00",120,350,"4,88,250","4,29,660","3,62,700","66,960",7, July ,2014
+Government,United States of America, Velo ,986,120,350,"3,45,100","3,03,688","2,56,360","47,328",10, October ,2014
+Government,Mexico, Velo ,905,120,20,"18,100","15,928","9,050","6,878",10, October ,2014
+Channel Partners,Canada, VTT ,"2,109.00",250,12,"25,308","22,271","6,327","15,944",5, May ,2014
+Midmarket,France, VTT ,"3,874.50",250,15,"58,118","51,143","38,745","12,398",7, July ,2014
+Government,Canada, VTT ,623,250,350,"2,18,050","1,91,884","1,61,980","29,904",9, September ,2013
+Government,United States of America, VTT ,986,250,350,"3,45,100","3,03,688","2,56,360","47,328",10, October ,2014
+Enterprise,United States of America, VTT ,"2,387.00",250,125,"2,98,375","2,62,570","2,86,440","-23,870",11, November ,2014
+Government,Mexico, VTT ,"1,233.00",250,20,"24,660","21,701","12,330","9,371",12, December ,2014
+Government,United States of America, Amarilla ,270,260,350,"94,500","83,160","70,200","12,960",2, February ,2014
+Government,France, Amarilla ,"3,421.50",260,7,"23,951","21,076","17,108","3,969",7, July ,2014
+Government,Canada, Amarilla ,"2,734.00",260,7,"19,138","16,841","13,670","3,171",10, October ,2014
+Midmarket,United States of America, Amarilla ,"2,548.00",260,15,"38,220","33,634","25,480","8,154",11, November ,2013
+Government,France, Carretera ,"2,521.50",3,20,"50,430","44,378","25,215","19,163",1, January ,2014
+Channel Partners,Mexico, Montana ,"2,661.00",5,12,"31,932","28,100","7,983","20,117",5, May ,2014
+Government,Germany, Paseo ,"1,531.00",10,20,"30,620","26,946","15,310","11,636",12, December ,2014
+Government,France, VTT ,"1,491.00",250,7,"10,437","9,185","7,455","1,730",3, March ,2014
+Government,Germany, VTT ,"1,531.00",250,20,"30,620","26,946","15,310","11,636",12, December ,2014
+Channel Partners,Canada, Amarilla ,"2,761.00",260,12,"33,132","29,156","8,283","20,873",9, September ,2013
+Midmarket,United States of America, Carretera ,"2,567.00",3,15,"38,505","33,499","25,670","7,829",6, June ,2014
+Midmarket,United States of America, VTT ,"2,567.00",250,15,"38,505","33,499","25,670","7,829",6, June ,2014
+Government,Canada, Carretera ,923,3,350,"3,23,050","2,81,054","2,39,980","41,074",3, March ,2014
+Government,France, Carretera ,"1,790.00",3,350,"6,26,500","5,45,055","4,65,400","79,655",3, March ,2014
+Government,Germany, Carretera ,442,3,20,"8,840","7,691","4,420","3,271",9, September ,2013
+Government,United States of America, Montana ,982.5,5,350,"3,43,875","2,99,171","2,55,450","43,721",1, January ,2014
+Government,United States of America, Montana ,"1,298.00",5,7,"9,086","7,905","6,490","1,415",2, February ,2014
+Channel Partners,Mexico, Montana ,604,5,12,"7,248","6,306","1,812","4,494",6, June ,2014
+Government,Mexico, Montana ,"2,255.00",5,20,"45,100","39,237","22,550","16,687",7, July ,2014
+Government,Canada, Montana ,"1,249.00",5,20,"24,980","21,733","12,490","9,243",10, October ,2014
+Government,United States of America, Paseo ,"1,438.50",10,7,"10,070","8,760","7,193","1,568",1, January ,2014
+Small Business,Germany, Paseo ,807,10,300,"2,42,100","2,10,627","2,01,750","8,877",1, January ,2014
+Government,United States of America, Paseo ,"2,641.00",10,20,"52,820","45,953","26,410","19,543",2, February ,2014
+Government,Germany, Paseo ,"2,708.00",10,20,"54,160","47,119","27,080","20,039",2, February ,2014
+Government,Canada, Paseo ,"2,632.00",10,350,"9,21,200","8,01,444","6,84,320","1,17,124",6, June ,2014
+Enterprise,Canada, Paseo ,"1,583.00",10,125,"1,97,875","1,72,151","1,89,960","-17,809",6, June ,2014
+Channel Partners,Mexico, Paseo ,571,10,12,"6,852","5,961","1,713","4,248",7, July ,2014
+Government,France, Paseo ,"2,696.00",10,7,"18,872","16,419","13,480","2,939",8, August ,2014
+Midmarket,Canada, Paseo ,"1,565.00",10,15,"23,475","20,423","15,650","4,773",10, October ,2014
+Government,Canada, Paseo ,"1,249.00",10,20,"24,980","21,733","12,490","9,243",10, October ,2014
+Government,Germany, Paseo ,357,10,350,"1,24,950","1,08,707","92,820","15,887",11, November ,2014
+Channel Partners,Germany, Paseo ,"1,013.00",10,12,"12,156","10,576","3,039","7,537",12, December ,2014
+Midmarket,France, Velo ,"3,997.50",120,15,"59,963","52,167","39,975","12,192",1, January ,2014
+Government,Canada, Velo ,"2,632.00",120,350,"9,21,200","8,01,444","6,84,320","1,17,124",6, June ,2014
+Government,France, Velo ,"1,190.00",120,7,"8,330","7,247","5,950","1,297",6, June ,2014
+Channel Partners,Mexico, Velo ,604,120,12,"7,248","6,306","1,812","4,494",6, June ,2014
+Midmarket,Germany, Velo ,660,120,15,"9,900","8,613","6,600","2,013",9, September ,2013
+Channel Partners,Mexico, Velo ,410,120,12,"4,920","4,280","1,230","3,050",10, October ,2014
+Small Business,Mexico, Velo ,"2,605.00",120,300,"7,81,500","6,79,905","6,51,250","28,655",11, November ,2013
+Channel Partners,Germany, Velo ,"1,013.00",120,12,"12,156","10,576","3,039","7,537",12, December ,2014
+Enterprise,Canada, VTT ,"1,583.00",250,125,"1,97,875","1,72,151","1,89,960","-17,809",6, June ,2014
+Midmarket,Canada, VTT ,"1,565.00",250,15,"23,475","20,423","15,650","4,773",10, October ,2014
+Enterprise,Canada, Amarilla ,"1,659.00",260,125,"2,07,375","1,80,416","1,99,080","-18,664",1, January ,2014
+Government,France, Amarilla ,"1,190.00",260,7,"8,330","7,247","5,950","1,297",6, June ,2014
+Channel Partners,Mexico, Amarilla ,410,260,12,"4,920","4,280","1,230","3,050",10, October ,2014
+Channel Partners,Germany, Amarilla ,"1,770.00",260,12,"21,240","18,479","5,310","13,169",12, December ,2013
+Government,Mexico, Carretera ,"2,579.00",3,20,"51,580","44,359","25,790","18,569",4, April ,2014
+Government,United States of America, Carretera ,"1,743.00",3,20,"34,860","29,980","17,430","12,550",5, May ,2014
+Government,United States of America, Carretera ,"2,996.00",3,7,"20,972","18,036","14,980","3,056",10, October ,2013
+Government,Germany, Carretera ,280,3,7,"1,960","1,686","1,400",286,12, December ,2014
+Government,France, Montana ,293,5,7,"2,051","1,764","1,465",299,2, February ,2014
+Government,United States of America, Montana ,"2,996.00",5,7,"20,972","18,036","14,980","3,056",10, October ,2013
+Midmarket,Germany, Paseo ,278,10,15,"4,170","3,586","2,780",806,2, February ,2014
+Government,Canada, Paseo ,"2,428.00",10,20,"48,560","41,762","24,280","17,482",3, March ,2014
+Midmarket,United States of America, Paseo ,"1,767.00",10,15,"26,505","22,794","17,670","5,124",9, September ,2014
+Channel Partners,France, Paseo ,"1,393.00",10,12,"16,716","14,376","4,179","10,197",10, October ,2014
+Government,Germany, VTT ,280,250,7,"1,960","1,686","1,400",286,12, December ,2014
+Channel Partners,France, Amarilla ,"1,393.00",260,12,"16,716","14,376","4,179","10,197",10, October ,2014
+Channel Partners,United States of America, Amarilla ,"2,015.00",260,12,"24,180","20,795","6,045","14,750",12, December ,2013
+Small Business,Mexico, Carretera ,801,3,300,"2,40,300","2,06,658","2,00,250","6,408",7, July ,2014
+Enterprise,France, Carretera ,"1,023.00",3,125,"1,27,875","1,09,973","1,22,760","-12,788",9, September ,2013
+Small Business,Canada, Carretera ,"1,496.00",3,300,"4,48,800","3,85,968","3,74,000","11,968",10, October ,2014
+Small Business,United States of America, Carretera ,"1,010.00",3,300,"3,03,000","2,60,580","2,52,500","8,080",10, October ,2014
+Midmarket,Germany, Carretera ,"1,513.00",3,15,"22,695","19,518","15,130","4,388",11, November ,2014
+Midmarket,Canada, Carretera ,"2,300.00",3,15,"34,500","29,670","23,000","6,670",12, December ,2014
+Enterprise,Mexico, Carretera ,"2,821.00",3,125,"3,52,625","3,03,258","3,38,520","-35,263",12, December ,2013
+Government,Canada, Montana ,"2,227.50",5,350,"7,79,625","6,70,478","5,79,150","91,328",1, January ,2014
+Government,Germany, Montana ,"1,199.00",5,350,"4,19,650","3,60,899","3,11,740","49,159",4, April ,2014
+Government,Canada, Montana ,200,5,350,"70,000","60,200","52,000","8,200",5, May ,2014
+Government,Canada, Montana ,388,5,7,"2,716","2,336","1,940",396,9, September ,2014
+Government,Mexico, Montana ,"1,727.00",5,7,"12,089","10,397","8,635","1,762",10, October ,2013
+Midmarket,Canada, Montana ,"2,300.00",5,15,"34,500","29,670","23,000","6,670",12, December ,2014
+Government,Mexico, Paseo ,260,10,20,"5,200","4,472","2,600","1,872",2, February ,2014
+Midmarket,Canada, Paseo ,"2,470.00",10,15,"37,050","31,863","24,700","7,163",9, September ,2013
+Midmarket,Canada, Paseo ,"1,743.00",10,15,"26,145","22,485","17,430","5,055",10, October ,2013
+Channel Partners,United States of America, Paseo ,"2,914.00",10,12,"34,968","30,072","8,742","21,330",10, October ,2014
+Government,France, Paseo ,"1,731.00",10,7,"12,117","10,421","8,655","1,766",10, October ,2014
+Government,Canada, Paseo ,700,10,350,"2,45,000","2,10,700","1,82,000","28,700",11, November ,2014
+Channel Partners,Canada, Paseo ,"2,222.00",10,12,"26,664","22,931","6,666","16,265",11, November ,2013
+Government,United States of America, Paseo ,"1,177.00",10,350,"4,11,950","3,54,277","3,06,020","48,257",11, November ,2014
+Government,France, Paseo ,"1,922.00",10,350,"6,72,700","5,78,522","4,99,720","78,802",11, November ,2013
+Enterprise,Mexico, Velo ,"1,575.00",120,125,"1,96,875","1,69,313","1,89,000","-19,688",2, February ,2014
+Government,United States of America, Velo ,606,120,20,"12,120","10,423","6,060","4,363",4, April ,2014
+Small Business,United States of America, Velo ,"2,460.00",120,300,"7,38,000","6,34,680","6,15,000","19,680",7, July ,2014
+Small Business,Canada, Velo ,269,120,300,"80,700","69,402","67,250","2,152",10, October ,2013
+Small Business,Germany, Velo ,"2,536.00",120,300,"7,60,800","6,54,288","6,34,000","20,288",11, November ,2013
+Government,Mexico, VTT ,"2,903.00",250,7,"20,321","17,476","14,515","2,961",3, March ,2014
+Small Business,United States of America, VTT ,"2,541.00",250,300,"7,62,300","6,55,578","6,35,250","20,328",8, August ,2014
+Small Business,Canada, VTT ,269,250,300,"80,700","69,402","67,250","2,152",10, October ,2013
+Small Business,Canada, VTT ,"1,496.00",250,300,"4,48,800","3,85,968","3,74,000","11,968",10, October ,2014
+Small Business,United States of America, VTT ,"1,010.00",250,300,"3,03,000","2,60,580","2,52,500","8,080",10, October ,2014
+Government,France, VTT ,"1,281.00",250,350,"4,48,350","3,85,581","3,33,060","52,521",12, December ,2013
+Small Business,Canada, Amarilla ,888,260,300,"2,66,400","2,29,104","2,22,000","7,104",3, March ,2014
+Enterprise,United States of America, Amarilla ,"2,844.00",260,125,"3,55,500","3,05,730","3,41,280","-35,550",5, May ,2014
+Channel Partners,France, Amarilla ,"2,475.00",260,12,"29,700","25,542","7,425","18,117",8, August ,2014
+Midmarket,Canada, Amarilla ,"1,743.00",260,15,"26,145","22,485","17,430","5,055",10, October ,2013
+Channel Partners,United States of America, Amarilla ,"2,914.00",260,12,"34,968","30,072","8,742","21,330",10, October ,2014
+Government,France, Amarilla ,"1,731.00",260,7,"12,117","10,421","8,655","1,766",10, October ,2014
+Government,Mexico, Amarilla ,"1,727.00",260,7,"12,089","10,397","8,635","1,762",10, October ,2013
+Midmarket,Mexico, Amarilla ,"1,870.00",260,15,"28,050","24,123","18,700","5,423",11, November ,2013
+Enterprise,France, Carretera ,"1,174.00",3,125,"1,46,750","1,24,738","1,40,880","-16,143",8, August ,2014
+Enterprise,Germany, Carretera ,"2,767.00",3,125,"3,45,875","2,93,994","3,32,040","-38,046",8, August ,2014
+Enterprise,Germany, Carretera ,"1,085.00",3,125,"1,35,625","1,15,281","1,30,200","-14,919",10, October ,2014
+Small Business,Mexico, Montana ,546,5,300,"1,63,800","1,39,230","1,36,500","2,730",10, October ,2014
+Government,Germany, Paseo ,"1,158.00",10,20,"23,160","19,686","11,580","8,106",3, March ,2014
+Midmarket,Canada, Paseo ,"1,614.00",10,15,"24,210","20,579","16,140","4,439",4, April ,2014
+Government,Mexico, Paseo ,"2,535.00",10,7,"17,745","15,083","12,675","2,408",4, April ,2014
+Government,Mexico, Paseo ,"2,851.00",10,350,"9,97,850","8,48,173","7,41,260","1,06,913",5, May ,2014
+Midmarket,Canada, Paseo ,"2,559.00",10,15,"38,385","32,627","25,590","7,037",8, August ,2014
+Government,United States of America, Paseo ,267,10,20,"5,340","4,539","2,670","1,869",10, October ,2013
+Enterprise,Germany, Paseo ,"1,085.00",10,125,"1,35,625","1,15,281","1,30,200","-14,919",10, October ,2014
+Midmarket,Germany, Paseo ,"1,175.00",10,15,"17,625","14,981","11,750","3,231",10, October ,2014
+Government,United States of America, Paseo ,"2,007.00",10,350,"7,02,450","5,97,083","5,21,820","75,263",11, November ,2013
+Government,Mexico, Paseo ,"2,151.00",10,350,"7,52,850","6,39,923","5,59,260","80,663",11, November ,2013
+Channel Partners,United States of America, Paseo ,914,10,12,"10,968","9,323","2,742","6,581",12, December ,2014
+Government,France, Paseo ,293,10,20,"5,860","4,981","2,930","2,051",12, December ,2014
+Channel Partners,Mexico, Velo ,500,120,12,"6,000","5,100","1,500","3,600",3, March ,2014
+Midmarket,France, Velo ,"2,826.00",120,15,"42,390","36,032","28,260","7,772",5, May ,2014
+Enterprise,France, Velo ,663,120,125,"82,875","70,444","79,560","-9,116",9, September ,2014
+Small Business,United States of America, Velo ,"2,574.00",120,300,"7,72,200","6,56,370","6,43,500","12,870",11, November ,2013
+Enterprise,United States of America, Velo ,"2,438.00",120,125,"3,04,750","2,59,038","2,92,560","-33,523",12, December ,2013
+Channel Partners,United States of America, Velo ,914,120,12,"10,968","9,323","2,742","6,581",12, December ,2014
+Government,Canada, VTT ,865.5,250,20,"17,310","14,714","8,655","6,059",7, July ,2014
+Midmarket,Germany, VTT ,492,250,15,"7,380","6,273","4,920","1,353",7, July ,2014
+Government,United States of America, VTT ,267,250,20,"5,340","4,539","2,670","1,869",10, October ,2013
+Midmarket,Germany, VTT ,"1,175.00",250,15,"17,625","14,981","11,750","3,231",10, October ,2014
+Enterprise,Canada, VTT ,"2,954.00",250,125,"3,69,250","3,13,863","3,54,480","-40,618",11, November ,2013
+Enterprise,Germany, VTT ,552,250,125,"69,000","58,650","66,240","-7,590",11, November ,2014
+Government,France, VTT ,293,250,20,"5,860","4,981","2,930","2,051",12, December ,2014
+Small Business,France, Amarilla ,"2,475.00",260,300,"7,42,500","6,31,125","6,18,750","12,375",3, March ,2014
+Small Business,Mexico, Amarilla ,546,260,300,"1,63,800","1,39,230","1,36,500","2,730",10, October ,2014
+Government,Mexico, Montana ,"1,368.00",5,7,"9,576","8,140","6,840","1,300",2, February ,2014
+Government,Canada, Paseo ,723,10,7,"5,061","4,302","3,615",687,4, April ,2014
+Channel Partners,United States of America, VTT ,"1,806.00",250,12,"21,672","18,421","5,418","13,003",5, May ,2014
